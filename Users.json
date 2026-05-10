@@ -1,18 +1,8 @@
-[
-    {
+{
         "Name": "MD Sakibul Islam",
-        "DeviceID": "all",
+        "DeviceID": "ll",
         "AppUse": "true",
         "createDate": "10/05/2026",
-        "expiryDate": "01/08/2025",
-        "UserStatus": "tru"
-    },
-    {
-        "Name": "MD Sakibul Islam",
-        "DeviceID": "dbf2a987be133123",
-        "AppUse": "true",
-        "createDate": "10/05/2026",
-        "expiryDate": "01/08/2025",
+        "expiryDate": "01/08/2027",
         "UserStatus": "free"
     }
-]
