@@ -1,0 +1,16 @@
+{
+    "Name": "Omar",
+    "DeviceID": "xxxxxxxx",
+    "AppUse": "true",
+    "createDate": "10/05/2026",
+    "expiryDate": "01/08/2026", ("lifetime" এটাও হতে পারে)
+    "UserStatus": "vip"
+}
+{
+    "Name": "MD Sakibul Islam",
+    "DeviceID": "all",
+    "AppUse": "true",
+    "createDate": "10/05/2026",
+    "expiryDate": "01/08/2026", ("lifetime" এটাও হতে পারে)
+    "UserStatus": "free"
+}
