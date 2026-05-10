@@ -2,14 +2,14 @@
     {
         "Name": "MD Sakibul Islam",
         "DeviceID": "all",
-        "AppUse": "true",
+        "AppUse": "false",
         "createDate": "11/05/2026",
         "expiryDate": "01/01/2030",
-        "UserStatus": "premium"
+        "UserStatus": ""
     },
     {
-        "Name": "🐸",
-        "DeviceID": "😁",
+        "Name": "ð¸",
+        "DeviceID": "ð",
         "AppUse": "true",
         "createDate": "11/05/2026",
         "expiryDate": "01/01/2030",
