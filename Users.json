@@ -3,7 +3,7 @@
     "DeviceID": "xxxxxxxx",
     "AppUse": "true",
     "createDate": "10/05/2026",
-    "expiryDate": "01/08/2026", ("lifetime" এটাও হতে পারে)
+    "expiryDate": "01/08/2026",
     "UserStatus": "vip"
 }
 {
@@ -11,6 +11,6 @@
     "DeviceID": "all",
     "AppUse": "true",
     "createDate": "10/05/2026",
-    "expiryDate": "01/08/2026", ("lifetime" এটাও হতে পারে)
+    "expiryDate": "01/08/2026",
     "UserStatus": "free"
 }
